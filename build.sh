@@ -19,7 +19,7 @@ iteration=1
 
 # Array of random activities
 activities=(
-    "Checking disk usage"
+    "Checking disk usag...e"
     "Monitoring CPU load"
     "Scanning network connections"
     "Verifying system processes"
