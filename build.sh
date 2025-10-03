@@ -58,7 +58,7 @@ while [ $(date +%s) -lt $end_time ]; do
             "Optimizing database"
         )
         random_event=${special_events[$RANDOM % ${#special_events[@]}]}
-        echo "  ⚡ SPECIAL: $random_event"
+        echo "  ⚡ SPECIAL EVENT: $random_event"
     fi
     
     # Add some random errors occasionally
